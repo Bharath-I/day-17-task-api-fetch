@@ -1,0 +1,24 @@
+
+.container{
+    margin-top: 20px;
+    
+}
+button{
+    margin:0px 70px;
+    margin-bottom: 30px;
+}
+img{
+    height: 80px;
+    width: 150px;
+    margin-bottom: 5px;
+}
+p{
+    color: white;
+    margin-bottom: 5px;
+}
+body{
+    background-color:rgb(172, 98, 241);
+}
+.head{
+    text-align: center;
+}
